@@ -1,0 +1,16 @@
+.nav-flex {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10px 0;
+  background-color: bisque;
+}
+
+ul {
+  padding: 0.5rem;
+  list-style-type: none;
+  background-color: aqua;
+  min-width: 12rem;
+}
+.ul-styles {
+  padding: 1rem;
+}
