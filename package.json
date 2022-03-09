@@ -1,0 +1,25 @@
+{
+  "name": "backend-proshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moshibal/E-commerce.git"
+  },
+  "author": "bishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moshibal/E-commerce/issues"
+  },
+  "homepage": "https://github.com/moshibal/E-commerce#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  },
+  "type": "module"
+}
